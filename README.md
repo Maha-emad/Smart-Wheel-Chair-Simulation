@@ -13,7 +13,7 @@ The application is divided into 3 modules :
           b) acute angle , represents going uphill 
           c) obtuse angle , represents going downhill  
           
-          ![speed](https://user-images.githubusercontent.com/71048834/205655492-0c612e3c-fe1f-4c77-9827-94e4ba0b0244.png) 
+      ![Screenshot (147)](https://user-images.githubusercontent.com/71048834/205659984-f8028285-a42c-4e46-974c-506146c53973.png)
           
           
   B) Navigation and location monitoring subsystem : 
