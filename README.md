@@ -16,5 +16,5 @@ The application is divided into 3 modules :
 
 
           
-       ![Screenshot (147)](https://user-images.githubusercontent.com/71048834/205654043-2e1b5e82-b177-4604-ab8a-8561c2849682.png)
+   
 
