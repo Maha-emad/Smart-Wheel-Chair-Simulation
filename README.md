@@ -13,7 +13,8 @@ The application is divided into 3 modules :
           b) acute angle , represents going uphill 
           c) obtuse angle , represents going downhill  
           
-          ![Screenshot (147)](https://user-images.githubusercontent.com/71048834/205653767-28ea1945-07df-4daf-90c6-d8c1c693951f.png)
+
 
           
-       
+       ![Screenshot (147)](https://user-images.githubusercontent.com/71048834/205654043-2e1b5e82-b177-4604-ab8a-8561c2849682.png)
+
