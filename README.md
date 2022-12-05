@@ -12,6 +12,7 @@ The application is divided into 3 modules :
           a) righ angle, represents the normal state  of the straigh movment . 
           b) acute angle , represents going uphill 
           c) obtuse angle , represents going downhill  
+          ![speed](https://user-images.githubusercontent.com/71048834/205655492-0c612e3c-fe1f-4c77-9827-94e4ba0b0244.png)
           
 
 
