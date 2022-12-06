@@ -6,21 +6,22 @@ The application is divided into 3 modules :
 1) Control Panel :
 
    Its a panel where the chair operating and movement systems are controlled , 
-   A) Speed and breaking subsystem : 
    
+   A) Speed and breaking subsystem : 
        -pre-define the constant speed of the chair  
-       -controle the speed on going uphill and downhill as the application simulates the action of gyrometer             sensor that measure the angular velocity and help in controlling speed where ,  
-          
-          a) righ angle, represents the normal state  of the straigh movment . 
-          b) acute angle , represents going uphill 
-          c) obtuse angle , represents going downhill  
+       -controle the speed on going uphill and downhill as the application simulates the action of gyrometer 
+       sensor that measure the angular velocity and help in controlling speed where ,  
+       
+       a) righ angle, represents the normal state  of the straigh movment . 
+       b) acute angle , represents going uphill 
+       c) obtuse angle , represents going downhill  
           
       ![Screenshot (147)](https://user-images.githubusercontent.com/71048834/205659984-f8028285-a42c-4e46-974c-506146c53973.png)
           
           
   B) Navigation and location monitoring subsystem : 
   
-      A simulation for the action of ulrasonic sensor as on sensing an obstacle , it will give the motor an order       to stope till it gets another order for moving in a certain direction . 
+  A simulation for the action of ulrasonic sensor as on sensing an obstacle , it will give the motor an order       to stope till it gets another order for moving in a certain direction . 
       
 C)Power and energy consumption : 
 
