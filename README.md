@@ -69,7 +69,10 @@ After sensing an obstacle
 
 ![Screenshot (173)](https://user-images.githubusercontent.com/71048834/206569013-a7c49c5a-5786-405a-bbd0-444396229363.png)
 
-
+Deployment
+-
+- [Panel](https://wheelchair-trials.web.app/Smart-Wheel-Chair-Simulation/)
+ 
 
  
 
