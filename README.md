@@ -29,4 +29,49 @@ Its a panel where the chair operating and movement systems are controlled ,
 
    All the updates that happens in the controle panel is stored in the firebase automatically and updated in the    dashboard to show the current state of the chair  
 ## Dashboard module 
- Its a separete page that shows the current state of the chair and updates it in a real time manner according to the changes happens to chair's environment or state   
+ Its a separete page that shows the current state of the chair and updates it in a real time manner according to the changes happens to chair's environment or state
+ 
+ 
+ 
+
+## Simulation
+ - Control panel 
+
+ Here on adding a new chair and defining its state , a new document will be created in the firestore and the data will be updated in the dashboard application in areal-time manner .
+ 
+ - Through the  control panel we can determine the state of the smart chair  ,
+   Define if there  exists an obstacle or not ,"Sense free space" field is only opened if there is a sensed oobstacle to select the next destination  ,battery charge is set and notify the user if the value is below 20%  
+   determining the angle specifies going uphill ,downhill or in straighh direction 
+   Id of the  chair helps to distinguish  between different chairs on the dashboard  
+
+   Control panel allows  you to add a  chair or  update an existing chair.
+   
+   ![Screenshot (177)](https://user-images.githubusercontent.com/71048834/206568247-14f68026-1ee1-47dc-b9cb-2642bd0ddf84.png)
+
+
+  Firbase  
+  -
+ 
+ Each created chair creates a document in the firebase   
+
+ ![Screenshot (178)](https://user-images.githubusercontent.com/71048834/206568641-42a2f115-6290-4e78-97f5-64f007238ba9.png)
+
+ Dashboard 
+ -
+
+Before sensing an obstacle 
+
+
+![Screenshot (169)](https://user-images.githubusercontent.com/71048834/206568885-8ea6c159-8799-4e72-b2ba-9eea59725977.png) 
+
+
+After sensing an obstacle 
+
+![Screenshot (173)](https://user-images.githubusercontent.com/71048834/206569013-a7c49c5a-5786-405a-bbd0-444396229363.png)
+
+
+
+ 
+
+
+ 
